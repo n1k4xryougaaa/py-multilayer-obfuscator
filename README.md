@@ -33,6 +33,9 @@ pip install pycryptodome
 ## 🚀 Usage
 
 ```bash
+git clone https://github.com/n1k4xryougaaa/py-multilayer-obfuscator.git
+cd py-multilayer-obfuscator
+git pull
 python obfuscator.py
 ```
 
